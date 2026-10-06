@@ -1,0 +1,6 @@
+{
+  "name": "Arabian Broast - Order Management",
+  "description": "High-volume fast food order management terminal, POS and operations dashboard for Arabian Broast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
